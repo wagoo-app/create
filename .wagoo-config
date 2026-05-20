@@ -1,0 +1,15 @@
+name: create
+description: Description du projet
+version:
+  major: 0
+  minor: 0
+  patch: 2
+  name_version: ""
+  note_version: Updated to v0.0.2
+links:
+  - name: Frontend
+    url: http://localhost:3000
+commands:
+  - nom_command: version
+    description: Affiche la version actuelle du projet
+    action_commands: wagoo version
