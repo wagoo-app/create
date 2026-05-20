@@ -1,6 +1,6 @@
 {
   "name": "create",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "description": "Create by Wagoo is a desktop application",
   "main": "main.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "productName": "Create by Wagoo",
     "win": {
       "target": "nsis",
-      "icon": "assets/icon.ico"
+      "icon": "assets/logo.png"
     },
     "publish": [
       {
